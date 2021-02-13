@@ -12,7 +12,15 @@ For more information as well as price quotes, please contact us <a href="skype:s
 
 ## Serving You In The COVID-19 Crisis
 
-We resumed posting filmed church services in November 2020.  They are presently [posted to YouTube](https://www.youtube.com/channel/UCOXfWtVAbaXrRrBsx5baFjg) while we continue to investigate establishing our own hosting infrastructure.  Previously we recorded condensed worship services for a variety of video platforms on short turnaround in April 2020.  
+### Filmed Services
+
+Previously we recorded condensed worship services for a variety of video platforms on short turnaround in April 2020.  
+
+We resumed posting filmed church services in November 2020.  They are presently [posted to YouTube](https://www.youtube.com/channel/UCOXfWtVAbaXrRrBsx5baFjg) while we continue to investigate establishing our own hosting infrastructure.  
+
+Currently the filming of services is being held in abeyance.  This was reflected in a [video posted to the YouTube channel](https://youtu.be/_7biCeGEuoM).  There is presently no estimate for resuming operations.
+
+### Other Actions
 
 Typesetting of worship materials using LaTeX2e is one of our specialties that we have had to leverage repeatedly.  Utilizing thorough knowledge of radio frequency tech we even got a church parking lot rigged legally for FM sound temporarily for drive-in services in May 2020.  These solutions and more have been part of our work during this continuing crisis.  
 
