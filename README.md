@@ -1,10 +1,8 @@
-This is the major revision to the website.
-
-Presently the site is deployed using Netlify.
+This is presently the website for Erie Looking Productions utilizing deployment via Netlify.
 
 It can be found at <https://erielookingproductions.info>
 
-Eventually this may also be mirrored to Launchpad.
+Eventually this may also be mirrored to Launchpad if I can ever figure out what I am doing wrong.
 
 
 
