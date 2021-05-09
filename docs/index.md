@@ -4,11 +4,11 @@
 
 Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work.  From work in [LaTeX2e](https://simple.wikipedia.org/wiki/LaTeX) to audio production to video editing, we provide unique solutions for you. Examples of audio works we have created can be found online at the [Internet Archive](https://archive.org/search.php?query=%22Erie%20Looking%20Productions%22&and[]=mediatype%3A%22audio%22).
 
-If you're looking for the blog of Stephen Michael Kellat, please head over instead to [Coyote Works](http://coyote.works/) which is built using [bashblog](https://github.com/cfenollosa/bashblog).  *The Interim Edgewood Stratagem*, a free current affairs newsletter, was previously produced by Stephen and is no longer available.  [Printed works](https://simple.wikipedia.org/wiki/Short_story) by Stephen [are currently available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J).  Based upon Stephen's experience in librarianship we do favor print over electronic publishing for fiction when it comes to initial releases.  Although Mr. Kellat may presently be a candidate for local elected office please contact him concerning that matter through other channels.  
+This is not Stephen Michael Kellat's blog [Coyote Works](http://coyote.works/).  Printed works by Stephen [are currently available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J).  Although Mr. Kellat may presently be a candidate for local elected office in Ashtabula City please contact him concerning that matter through other channels.  
 
 ### To Reach Us
 
-For more information as well as price quotes, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a>.  Our rather secondary presence on Facebook that can be found at <https://www.facebook.com/erielooking/> is being phased out in 2021.
+For more information as well as price quotes, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a>.  Our rather secondary presence on Facebook that can be found at <https://www.facebook.com/erielooking/>.
 
 ## Serving You In The COVID-19 Crisis
 
