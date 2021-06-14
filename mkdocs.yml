@@ -7,4 +7,7 @@ copyright: Copyright © 2019-2021 Erie Looking Productions and Stephen Michael K
 plugins: []
 nav:
      - Home: index.md
-
+     - June 2021 New Novella: novella.md
+     - COVID Responses: covid.md
+     - Services Offered: services.md
+     - Works in Progress: wip.md
