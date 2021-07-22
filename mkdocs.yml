@@ -8,6 +8,6 @@ plugins: []
 nav:
      - Home: index.md
      - June 2021 New Novella: novella.md
-     - COVID Responses: covid.md
-     - Services Offered: services.md
-     - Works in Progress: wip.md
+     - COVID-19: covid.md
+     - What We Do: services.md
+     - In-Progress: wip.md

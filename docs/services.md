@@ -17,7 +17,13 @@ During the [continuing COVID-19 crisis](https://simple.wikipedia.org/wiki/COVID-
 
 ### Print
  
-* Print media production using LaTeX2e
-* Support for churches in preparing worship materials for print and overhead display  
+* Print media production using LaTeX2e  
+
+### Religious Works
+
+* Preparation of worship materials for print and overhead display  
+* Audiovisual systems analysis  
+* Streaming planning assistance  
+
 
 
