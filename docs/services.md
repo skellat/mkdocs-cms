@@ -13,7 +13,6 @@ During the [continuing COVID-19 crisis](https://simple.wikipedia.org/wiki/COVID-
 * Limited music recording for release
 * Single-camera video recording of events
 * Radio airtime brokerage
-* Systems analysis in conjunction with [South Shore Microphones](http://southshoremicrophones.com)
 
 ### Print
  
