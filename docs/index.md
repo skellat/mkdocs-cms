@@ -8,7 +8,7 @@ Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-p
 
 Stephen Michael Kellat does **not** presently have an operational personal blog as of October 9, 2021.  There are no restoration plans for that at this time.  
 
-Literary works by Stephen [are currently available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J).  
+Literary works by Stephen [are currently available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J).  Works are available in a variety of formats.  
 
 ### To Reach Us
 
