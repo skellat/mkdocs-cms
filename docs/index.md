@@ -12,5 +12,4 @@ Literary works by Stephen [are currently available for purchase via Amazon](http
 
 ### To Reach Us
 
-For more information as well as price quotes, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a>.  Our rather secondary presence on Facebook that can be found at <https://www.facebook.com/erielooking/>.
-
+For more information as well as price quotes, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to strategic reconsideration of our server spending as well as changes in the market at this time.  Our rather secondary presence on Facebook can be found at <https://www.facebook.com/erielooking/>.
