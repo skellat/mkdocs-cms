@@ -4,11 +4,11 @@
 
 ### Filmed Services
 
-Previously we recorded condensed worship services for a variety of video platforms on short turnaround in April 2020.  
+We previously recorded condensed worship services for a variety of video platforms on short turnaround in April 2020.  
 
 We resumed posting filmed church services in November 2020.  Those works are presently [posted to YouTube](https://www.youtube.com/channel/UCOXfWtVAbaXrRrBsx5baFjg) while we continue to investigate establishing our own hosting infrastructure.  
 
-The filming of services is currently held in abeyance.  That was announced in a [video posted to the YouTube channel](https://youtu.be/_7biCeGEuoM).  Due to a mix of events beyond our control it appears video production operations relative to filmed worship services may not resume for some time.  Nothing in human life is truly static let alone unchanging.
+The filming of services is currently held in abeyance.  That was announced in a [video posted to the YouTube channel](https://youtu.be/_7biCeGEuoM).  Due to a mix of events beyond our control it appears video production operations relative to filmed worship services may not resume for some time.  Nothing in human life is truly static.
 
 ### Other Actions
 
