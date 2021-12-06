@@ -4,6 +4,10 @@
 
 During the [continuing COVID-19 crisis](https://simple.wikipedia.org/wiki/COVID-19_pandemic) we must be creative in meeting service requests.  Please contact us to discuss availability.  An illustrative list of possible services includes:
 
+### Print
+
+* Print media production using LaTeX2e
+
 ### Audiovisual
 
 * Audio editing
@@ -14,15 +18,8 @@ During the [continuing COVID-19 crisis](https://simple.wikipedia.org/wiki/COVID-
 * Single-camera video recording of events
 * Radio airtime brokerage
 
-### Print
- 
-* Print media production using LaTeX2e  
-
 ### Religious Works
 
 * Preparation of worship materials for print and overhead display  
 * Audiovisual systems analysis  
 * Streaming planning assistance  
-
-
-

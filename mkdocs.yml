@@ -7,6 +7,5 @@ copyright: Copyright © 2019-2021 Erie Looking Productions and Stephen Michael K
 plugins: []
 nav:
      - Home: index.md
-     - COVID-19: covid.md
      - What We Do: services.md
      - In-Progress: wip.md
