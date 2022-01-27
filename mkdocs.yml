@@ -9,3 +9,4 @@ nav:
      - Home: index.md
      - What We Do: services.md
      - In-Progress: wip.md
+     - Statement: statement.md
