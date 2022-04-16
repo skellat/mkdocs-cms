@@ -8,7 +8,7 @@ Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-p
 
 Stephen Michael Kellat does **not** have an operational personal blog since October 9, 2021.  There are no restoration plans for that at this time.  Limited microblogging is available from him [on Twitter](https://twitter.com/writer_smk).  
 
-Literary works by Stephen [are currently available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J).  Works are available in a variety of formats.  
+Various literary works by Stephen [are currently available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J).  Works are available in a variety of formats.  
 
 ### Serving You In The COVID-19 Crisis
 
@@ -16,4 +16,4 @@ We continue to monitor and react to the [COVID-19 crisis](https://simple.wikiped
 
 ### To Reach Us
 
-For more information as well as price quotes, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to strategic reconsideration of our server spending as well as changes in the market at this time.  That may change as circumstances develop.
+For more information as well as price quotes, please contact us by telephone in the United States at 814-580-8087, <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to strategic reconsideration of our server spending as well as changes in the market at this time.  That may change as circumstances develop.

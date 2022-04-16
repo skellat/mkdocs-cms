@@ -2,7 +2,7 @@
 
 ## Regular Commercial Services Offered
 
-During the [continuing COVID-19 crisis](https://simple.wikipedia.org/wiki/COVID-19_pandemic) we must be creative in meeting service requests.  Please contact us to discuss availability.  An illustrative list of possible services includes:
+During the seemingly permanent state of crisis we must be creative in meeting service requests.  Please contact us to discuss availability.  An illustrative list of possible services includes:
 
 ### Print
 

@@ -7,7 +7,7 @@ We continue to monitor the [invasion of Ukraine](https://simple.wikipedia.org/wi
 In no particular order:
 
 * Reviewing technical materials on [UUCP](https://en.wikipedia.org/wiki/UUCP) and its spiritual successor [NNCP](http://www.nncpgo.org/)
-* Reviewing [operational methods behind the ancient way of the "BBS"](http://www.bbscorner.com/telnetbbs/telnetoverview.htm) 
+* Reviewing [operational methods behind the ancient way of the "BBS"](http://www.bbscorner.com/telnetbbs/telnetoverview.htm) which have otherwise been termed ["lost civilization"](https://web.archive.org/web/20220315142318/https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/)
 * Review the status of [dog-related network](http://www.bbscorner.com/bbsnetworks/fidonet.htm) 
 * Adjust our radio-based equipment for better reception of Over The Air data streams such as [NAVTEX](https://en.wikipedia.org/wiki/NAVTEX) and [WEFAX](https://en.wikipedia.org/wiki/Radiofax#Weatherfax)
 * Review various ways of impromptu knowledge recording such as [this](https://en.wikipedia.org/wiki/Magnitizdat), [this](https://en.wikipedia.org/wiki/Samizdat), and [this](https://en.wikipedia.org/wiki/Ribs_(recordings))
