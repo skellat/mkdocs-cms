@@ -23,3 +23,4 @@ During the seemingly permanent state of crisis we must be creative in meeting se
 * Preparation of worship materials for print and overhead display  
 * Audiovisual systems analysis  
 * Streaming planning assistance  
+* Streaming metrics versus in-person attendance review assistance 
