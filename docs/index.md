@@ -6,7 +6,7 @@ Please click the links at the top for more detailed information about who we are
 
 Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work and consultation.  We provide unique solutions for you ranging from work in [LaTeX2e](https://simple.wikipedia.org/wiki/LaTeX) to audio production to video editing and more. Examples of audio works we have created can be found online at the [Internet Archive](https://archive.org/search.php?query=%22Erie%20Looking%20Productions%22&and[]=mediatype%3A%22audio%22).
 
-Stephen Michael Kellat does **not** have an operational personal blog since October 9, 2021.  There are no restoration plans for that at this time.  Limited microblogging is available from him [on Twitter](https://twitter.com/writer_smk).  
+Stephen Michael Kellat does **not** have an operational personal blog since October 9, 2021.  He presently is assessing restoration of a personal blog using various [static site generator](https://jamstack.org/generators/) options.  Limited microblogging is available from him [on Twitter](https://twitter.com/writer_smk).  
 
 Various literary works by Stephen [are currently available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J).  Works are available in a variety of formats.  
 

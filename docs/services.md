@@ -17,10 +17,11 @@ During the seemingly permanent state of crisis we must be creative in meeting se
 * Limited music recording for release
 * Single-camera video recording of events
 * Radio airtime brokerage
+* Assistance in the creation of creative works for institutional use
 
 ### Religious Works
 
 * Preparation of worship materials for print and overhead display  
 * Audiovisual systems analysis  
 * Streaming planning assistance  
-* Streaming metrics versus in-person attendance review assistance 
+* Streaming metrics versus in-person attendance review assistance
