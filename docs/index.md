@@ -4,11 +4,9 @@ Please click the links at the top for more detailed information about who we are
 
 ### About Us
 
-Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work and consultation.  We provide unique solutions for you ranging from work in [LaTeX2e](https://simple.wikipedia.org/wiki/LaTeX) to audio production to video editing and more. Examples of audio works we have created can be found online at the [Internet Archive](https://archive.org/search.php?query=%22Erie%20Looking%20Productions%22&and[]=mediatype%3A%22audio%22).
+Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work and consultation.  We work in [LaTeX2e](https://simple.wikipedia.org/wiki/LaTeX), audiovisual editing, creative consulting, and more to provide unique solutions. Examples of audio works we have created can be found online at the [Internet Archive](https://archive.org/search.php?query=%22Erie%20Looking%20Productions%22&and[]=mediatype%3A%22audio%22).
 
-Stephen Michael Kellat does **not** have an operational personal blog since October 9, 2021.  He presently is assessing restoration of a personal blog using various [static site generator](https://jamstack.org/generators/) options.  Limited microblogging is available from him [on Twitter](https://twitter.com/writer_smk).  He may have other presences on other services for the purposes of testing and evaluation.
-
-Various literary works by Stephen [are currently available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J).  Works are available in a variety of formats.  
+Various literary works by our proprietor, Stephen Michael Kellat, [are currently available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J).  Works are available in a variety of formats.  They were typeset by us.  
 
 ### Serving You In The COVID-19 Crisis
 
@@ -16,4 +14,4 @@ We continue to monitor and react to the [COVID-19 crisis](https://simple.wikiped
 
 ### To Reach Us
 
-For more information as well as price quotes, please contact us by telephone in the United States at 814-580-8087, <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to strategic reconsideration of our server spending as well as changes in the market at this time.  That may change as circumstances develop.
+For more information, please contact us by telephone in the United States at 814-580-8087, <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to strategic reconsideration of our server spending as well as changes in the market at this time.  That may change as circumstances develop and we assess infrastructure-as-a-service options.
