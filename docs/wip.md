@@ -7,5 +7,4 @@
 * Continuing participation in the work of the Ashtabula County Broadband Task Force  
 * Seeking suitable studio space to work inside
 * Investigating the use of [radiofacsimile transmission](https://en.wikipedia.org/wiki/Radiofax) over a variety of frequency bands  
-* Hardening systems and networks
 * Reviewing alternative operational measures

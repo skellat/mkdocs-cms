@@ -10,8 +10,8 @@ Various literary works by our proprietor, Stephen Michael Kellat, [are currently
 
 ### Serving You In The COVID-19 Crisis
 
-We continue to monitor and react to the [COVID-19 crisis](https://simple.wikipedia.org/wiki/COVID-19).  The long-running crisis has shaped how we operate.  After nearly two years we've come to a view that the pre-coronavirus world isn't coming back *completely* any time soon, if at all.  We're looking at how we can move forward boldly into a new future.
+We continue to monitor and react to the [COVID-19 crisis](https://simple.wikipedia.org/wiki/COVID-19).  The long-running crisis shaped how we operate.  After nearly two years we've come to a view that the pre-coronavirus world isn't coming back *completely* any time soon, if at all.  We're looking at how we can move forward boldly into a new future.
 
 ### To Reach Us
 
-For more information, please contact us by telephone in the United States at 814-580-8087, <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to strategic reconsideration of our server spending as well as changes in the market at this time.  That may change as circumstances develop and we assess infrastructure-as-a-service options.
+For more information, please contact us by telephone in the United States at 814-580-8087, <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to adverse factors in the realm of e-mail service hosting.
