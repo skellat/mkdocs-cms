@@ -8,6 +8,6 @@ plugins: []
 nav:
      - Home: index.md
      - Functions: services.md
-     - On-Going: wip.md
+     - Works Underway: wip.md
      - Future Plans: statement.md
      - Our Faith: faith.md
