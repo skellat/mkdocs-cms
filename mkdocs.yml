@@ -1,13 +1,13 @@
 site_name: Erie Looking Productions
 theme: mkdocs
 site_url: https://erielookingproductions.info/
-site_description: The principal public-facing website of Erie Looking Productions
+site_description: The main public-facing website of Erie Looking Productions
 site_author: Stephen Michael Kellat
 copyright: Copyright © 2019-2022 Erie Looking Productions and Stephen Michael Kellat.  
 plugins: []
 nav:
      - Home: index.md
      - Functions: services.md
-     - Works Underway: wip.md
+     - On-Going: wip.md
      - Future Plans: statement.md
      - Our Faith: faith.md

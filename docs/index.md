@@ -14,4 +14,4 @@ We continue to monitor and react to the [COVID-19 crisis](https://simple.wikiped
 
 ### To Reach Us
 
-For more information, please contact us by telephone in the United States at 814-580-8087, <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to adverse factors in the realm of e-mail service hosting.  We expect to be transitioning our telephone services to [Microsoft Teams Phone](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone) before the end of 2022.  
+For more information, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to adverse factors in the realm of e-mail service hosting.
