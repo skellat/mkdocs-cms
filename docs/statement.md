@@ -1,6 +1,6 @@
 ## The Situation
 
-America remains at a crossroads while rather split.  We monitor many difficult situations.  We continue to work to help others as best we can.
+America remains at a crossroads while rather split socially.  We monitor many difficult situations.  We continue to work to help others as best we can.
 
 ## Planned Actions
 

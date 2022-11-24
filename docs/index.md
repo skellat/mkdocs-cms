@@ -10,7 +10,7 @@ Various literary works by our proprietor, Stephen Michael Kellat, [are currently
 
 ### Serving You In The COVID-19 Crisis
 
-We continue to monitor and react to the [COVID-19 crisis](https://simple.wikipedia.org/wiki/COVID-19).  The long-running crisis shaped how we operate.  After nearly two years we've come to a view that the pre-coronavirus world isn't coming back *completely* any time soon, if at all.  We're looking at how we can move forward boldly into a new future.
+We continue to monitor and react to the [COVID-19 crisis](https://simple.wikipedia.org/wiki/COVID-19).  The long-running crisis shaped how we operate.  After this much time we've come to a view that the pre-coronavirus world isn't coming back *completely* any time soon, if ever.  We're moving boldly into a new future.
 
 ### To Reach Us
 
