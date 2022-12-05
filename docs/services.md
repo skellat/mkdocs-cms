@@ -7,6 +7,7 @@ During the seemingly permanent state of crisis we must be creative in meeting se
 ### Print
 
 * Print media production using LaTeX2e
+* Limited editing and design service
 
 ### Audiovisual
 
