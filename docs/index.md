@@ -1,17 +1,48 @@
 ## Your Boutique Multi-Platform Media Arts Shop
 
-Please click the links at the top for more detailed information about who we are and what we do.
-
-### About Us
-
 Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work and consultation.  We work in [LaTeX2e](https://simple.wikipedia.org/wiki/LaTeX), audiovisual editing, creative consulting, and more to provide unique solutions. Examples of audio works we have created can be found online at the [Internet Archive](https://archive.org/search.php?query=%22Erie%20Looking%20Productions%22&and[]=mediatype%3A%22audio%22).
-
-Various literary works by our proprietor, Stephen Michael Kellat, [are currently available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J).  Works are available in a variety of formats.  They were typeset by us.  
-
-### Serving You In The COVID-19 Crisis
-
-We continue to monitor and react to the [COVID-19 crisis](https://simple.wikipedia.org/wiki/COVID-19).  The long-running crisis shapes how we operate.  After this much time we've come to a view that the pre-coronavirus world isn't coming back *completely* any time soon, if ever.  We're moving boldly into a new future.
 
 ### To Reach Us
 
 For more information, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to adverse factors in the realm of e-mail service hosting.  This may change in the future once we observe sufficient economic shifts.
+
+### Regular Commercial Services Offered
+
+During the seemingly permanent polycrisis we must be creative in meeting service requests.  Please contact us to discuss availability.  An illustrative list of possible services includes:
+
+#### Print
+
+* Print media production using LaTeX2e
+* Limited editing and design service
+
+#### Audiovisual
+
+* Audio editing
+* Radio ad production and placement
+* Audio production
+* Podcast production
+* Limited music recording for release
+* Single-camera video recording of events
+* Radio airtime brokerage
+* Assistance in the creation of creative works for institutional use
+
+#### Religious Works
+
+* Preparation of worship materials for print and overhead display  
+* Audiovisual systems analysis  
+* Streaming planning assistance  
+* Streaming metrics versus in-person attendance review assistance
+
+### Our Works-In-Progress & Planned Efforts
+
+* Development of an [over-the-top video service](https://en.wikipedia.org/w/index.php?title=Over-the-top_media_service&oldid=1110776742) to cover the local area
+* Review [operational methods behind the ancient way of the "BBS"](http://www.bbscorner.com/telnetbbs/telnetoverview.htm) which have otherwise been termed a ["lost civilization"](https://web.archive.org/web/20220315142318/https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/)
+* Review the status of [Fidonet](http://www.bbscorner.com/bbsnetworks/fidonet.htm)
+* Consider the operational ramifications behind John Goerzen's article [Building an Asynchronous, Internet-Optional Instant Messaging System](https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system/) and work toward a test deployment
+* Develop and deploy an [Onion service](https://en.wikipedia.org/wiki/Tor_(network)#Onion_services)
+* Work on forking the [newspaper package](https://ctan.org/pkg/newspaper) on CTAN to create a framework for [samizdat](https://en.wikipedia.org/wiki/Samizdat) publications such as currently seen from the [*Zvezda* newspaper](https://web.archive.org/web/20220521012308/https://www.rferl.org/a/russia-press-freedom-day-samizdat-perm-zvezda/31832108.html)
+* Continuing participation in the work of the Ashtabula County Broadband Task Force  
+* Writing and review of various works across multiple platforms
+* Investigating the use of [radiofacsimile transmission](https://en.wikipedia.org/wiki/Radiofax) over a variety of frequency bands including HiFERS 
+* Adjust our radio-based equipment for better reception of Over The Air data streams such as [NAVTEX](https://en.wikipedia.org/wiki/NAVTEX) and [WEFAX](https://en.wikipedia.org/wiki/Radiofax#Weatherfax)
+* Prepare further literary works beyond [the current set available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J)
