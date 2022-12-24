@@ -1,6 +1,6 @@
 ## Your Boutique Multi-Platform Media Arts Shop
 
-Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work and consultation.  We work in [LaTeX2e](https://simple.wikipedia.org/wiki/LaTeX), audiovisual editing, creative consulting, and more to provide unique solutions. Examples of audio works we have created can be found online at the [Internet Archive](https://archive.org/search.php?query=%22Erie%20Looking%20Productions%22&and[]=mediatype%3A%22audio%22).
+Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work and consultation.  We work in [LaTeX2e](https://simple.wikipedia.org/wiki/LaTeX), audiovisual editing, creative assistance, and more to provide unique solutions. Examples of audio works we have created can be found online at the [Internet Archive](https://archive.org/search.php?query=%22Erie%20Looking%20Productions%22&and[]=mediatype%3A%22audio%22).
 
 ### To Reach Us
 
@@ -17,7 +17,7 @@ During the seemingly permanent polycrisis we must be creative in meeting service
 
 #### Audiovisual
 
-* Audio editing
+* [Audio editing](https://simple.wikipedia.org/wiki/Audio_editing_software)
 * Radio ad production and placement
 * Audio production
 * Podcast production
@@ -36,13 +36,13 @@ During the seemingly permanent polycrisis we must be creative in meeting service
 ### Our Works-In-Progress & Planned Efforts
 
 * Development of an [over-the-top video service](https://en.wikipedia.org/w/index.php?title=Over-the-top_media_service&oldid=1110776742) to cover the local area
-* Review [operational methods behind the ancient way of the "BBS"](http://www.bbscorner.com/telnetbbs/telnetoverview.htm) which have otherwise been termed a ["lost civilization"](https://web.archive.org/web/20220315142318/https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/)
-* Review the status of [Fidonet](http://www.bbscorner.com/bbsnetworks/fidonet.htm)
-* Consider the operational ramifications behind John Goerzen's article [Building an Asynchronous, Internet-Optional Instant Messaging System](https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system/) and work toward a test deployment
-* Develop and deploy an [Onion service](https://en.wikipedia.org/wiki/Tor_(network)#Onion_services)
-* Work on forking the [newspaper package](https://ctan.org/pkg/newspaper) on CTAN to create a framework for [samizdat](https://en.wikipedia.org/wiki/Samizdat) publications such as currently seen from the [*Zvezda* newspaper](https://web.archive.org/web/20220521012308/https://www.rferl.org/a/russia-press-freedom-day-samizdat-perm-zvezda/31832108.html)
+    * Adjust our radio-based equipment for better reception of Over The Air data streams such as [NAVTEX](https://en.wikipedia.org/wiki/NAVTEX) and [WEFAX](https://en.wikipedia.org/wiki/Radiofax#Weatherfax) to incorporate into the service
+    * Develop and deploy an [Onion service](https://en.wikipedia.org/wiki/Tor_(network)#Onion_services)
+* Consider alternative communications methods
+    * Review [operational methods behind the ancient way of the "BBS"](http://www.bbscorner.com/telnetbbs/telnetoverview.htm) which have otherwise been termed a ["lost civilization"](https://web.archive.org/web/20220315142318/https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/)
+    * Review the status of [Fidonet](http://www.bbscorner.com/bbsnetworks/fidonet.htm)
+    * Consider the operational ramifications behind John Goerzen's article [Building an Asynchronous, Internet-Optional Instant Messaging System](https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system/) and work toward a test deployment
+    * Work on forking the [newspaper package](https://ctan.org/pkg/newspaper) on CTAN to create a framework for [samizdat](https://en.wikipedia.org/wiki/Samizdat) publications such as currently seen from the [*Zvezda* newspaper](https://web.archive.org/web/20220521012308/https://www.rferl.org/a/russia-press-freedom-day-samizdat-perm-zvezda/31832108.html)
 * Continuing participation in the work of the Ashtabula County Broadband Task Force  
 * Writing and review of various works across multiple platforms
-* Investigating the use of [radiofacsimile transmission](https://en.wikipedia.org/wiki/Radiofax) over a variety of frequency bands including HiFERS 
-* Adjust our radio-based equipment for better reception of Over The Air data streams such as [NAVTEX](https://en.wikipedia.org/wiki/NAVTEX) and [WEFAX](https://en.wikipedia.org/wiki/Radiofax#Weatherfax)
 * Prepare further literary works beyond [the current set available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J)
