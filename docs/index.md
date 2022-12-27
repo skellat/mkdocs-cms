@@ -4,11 +4,11 @@ Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-p
 
 ### To Reach Us
 
-For more information, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to adverse factors in the realm of e-mail service hosting.  This may change in the future once we observe sufficient economic shifts.
+For more information, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to adverse factors in the realm of e-mail service hosting.  This may change in the future as we evaluate shifting to [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options), hosted [NextCloud](https://nextcloud.com/partners/), or hosted [Collabora Online](https://www.collaboraoffice.com/collabora-online-hosting-partners/).
 
 ### Regular Commercial Services Offered
 
-During the seemingly permanent polycrisis we must be creative in meeting service requests.  Please contact us to discuss availability.  An illustrative list of possible services includes:
+During the seemingly permanent polycrisis we must be creative in meeting service requests.  Please contact us to discuss service availability for your project.  An illustrative list of possible services includes:
 
 #### Print
 
