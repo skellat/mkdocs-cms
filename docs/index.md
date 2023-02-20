@@ -4,7 +4,7 @@ Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-p
 
 ### To Reach Us
 
-For more information, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to adverse factors in the realm of e-mail service hosting.  This may change in the future as we evaluate shifting to [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options), hosted [NextCloud](https://nextcloud.com/partners/), or hosted [Collabora Online](https://www.collaboraoffice.com/collabora-online-hosting-partners/).
+For more information, please contact us <a href="skype:stephen.michael.kellat?chat">via Skype</a> or <a href="mailto:ashtabulaecv197@gmail.com">via e-mail</A>.  We are presently *not* hosting our own e-mail due to adverse factors in the realm of e-mail service hosting.  This may change in the future as we evaluate shifting to an appropriate solution.
 
 ### Regular Commercial Services Offered
 
@@ -36,13 +36,10 @@ During the seemingly permanent polycrisis we must be creative in meeting service
 ### Our Works-In-Progress & Planned Efforts
 
 * Development of an [over-the-top video service](https://en.wikipedia.org/w/index.php?title=Over-the-top_media_service&oldid=1110776742) to cover the local area
-    * Adjust our radio-based equipment for better reception of Over The Air data streams such as [NAVTEX](https://en.wikipedia.org/wiki/NAVTEX) and [WEFAX](https://en.wikipedia.org/wiki/Radiofax#Weatherfax) to incorporate into the service
-    * Develop and deploy an [Onion service](https://en.wikipedia.org/wiki/Tor_(network)#Onion_services)
+    * Adjust our radio-based equipment for better reception of Over The Air data streams such as [NAVTEX](https://en.wikipedia.org/wiki/NAVTEX) and [WEFAX](https://en.wikipedia.org/wiki/Radiofax#Weatherfax) to incorporate into the service as well as [Ninth District USCG weather broadcasts](https://www.weather.gov/marine/uscg_broadcasts)
+    * Secure access to appropriate support networks and services
 * Consider alternative communications methods
-    * Review [operational methods behind the ancient way of the "BBS"](http://www.bbscorner.com/telnetbbs/telnetoverview.htm) which have otherwise been termed a ["lost civilization"](https://web.archive.org/web/20220315142318/https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/)
-    * Review the status of [Fidonet](http://www.bbscorner.com/bbsnetworks/fidonet.htm)
     * Consider the operational ramifications behind John Goerzen's article [Building an Asynchronous, Internet-Optional Instant Messaging System](https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system/) and work toward a test deployment
     * Work on forking the [newspaper package](https://ctan.org/pkg/newspaper) on CTAN to create a framework for [samizdat](https://en.wikipedia.org/wiki/Samizdat) publications such as currently seen from the [*Zvezda* newspaper](https://web.archive.org/web/20220521012308/https://www.rferl.org/a/russia-press-freedom-day-samizdat-perm-zvezda/31832108.html)
+    * Review of production methods for printing [chapbooks](https://en.wikipedia.org/w/index.php?title=Chapbook&oldid=1134260415) out of available resources
 * Continuing participation in the work of the Ashtabula County Broadband Task Force  
-* Writing and review of various works across multiple platforms
-* Prepare further literary works beyond [the current set available for purchase via Amazon](https://www.amazon.com/Stephen-Michael-Kellat/e/B085MR8Y8J)
