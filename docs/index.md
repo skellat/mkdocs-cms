@@ -10,11 +10,6 @@ For more information, please contact us <a href="skype:stephen.michael.kellat?ch
 
 During the seemingly permanent polycrisis we must be creative in meeting service requests.  Please contact us to discuss service availability for your project.  An illustrative list of possible services includes:
 
-#### Print
-
-* Print media production using LaTeX2e
-* Limited editing and design service
-
 #### Audiovisual
 
 * [Audio editing](https://simple.wikipedia.org/wiki/Audio_editing_software)
@@ -26,6 +21,11 @@ During the seemingly permanent polycrisis we must be creative in meeting service
 * Radio airtime brokerage
 * Assistance in the creation of creative works for institutional use
 
+#### Print
+
+* Print media production using LaTeX2e
+* Limited editing and design service
+
 #### Religious Works
 
 * Preparation of worship materials for print and overhead display  
@@ -35,11 +35,9 @@ During the seemingly permanent polycrisis we must be creative in meeting service
 
 ### Our Works-In-Progress & Planned Efforts
 
+* Producing an audio podcast concerning rural perspectives on streaming television
 * Pursuing development of an [over-the-top video service](https://en.wikipedia.org/w/index.php?title=Over-the-top_media_service&oldid=1110776742) to cover the local area
     * Adjusting our radio-based equipment for better reception of Over The Air data streams such as [NAVTEX](https://en.wikipedia.org/wiki/NAVTEX) and [WEFAX](https://en.wikipedia.org/wiki/Radiofax#Weatherfax) to incorporate into such as a service as well as make use of [Ninth District USCG weather broadcasts](https://www.weather.gov/marine/uscg_broadcasts)
     * Secure access to appropriate support networks and services
-* Consider alternative communications methods
-    * Consider the operational ramifications behind John Goerzen's article [Building an Asynchronous, Internet-Optional Instant Messaging System](https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system/) and work toward a test deployment
-    * Work on forking the [newspaper package](https://ctan.org/pkg/newspaper) on CTAN to create a framework for [samizdat](https://en.wikipedia.org/wiki/Samizdat) publications such as currently seen from the [*Zvezda* newspaper](https://web.archive.org/web/20220521012308/https://www.rferl.org/a/russia-press-freedom-day-samizdat-perm-zvezda/31832108.html)
-    * Review of production methods for printing [chapbooks](https://en.wikipedia.org/w/index.php?title=Chapbook&oldid=1134260415) out of available resources
+* Considering the operational ramifications behind John Goerzen's article [Building an Asynchronous, Internet-Optional Instant Messaging System](https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system/) and work toward a test deployment
 * Continuing participation in the work of the Ashtabula County Broadband Task Force  
