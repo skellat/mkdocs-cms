@@ -8,34 +8,11 @@ For more information, please contact us <a href="skype:stephen.michael.kellat?ch
 
 ### Regular Commercial Services Offered
 
-During the seemingly permanent polycrisis we must be creative in meeting service requests.  Please contact us to discuss service availability for your project.  An illustrative list of possible services includes:
-
-#### Audiovisual
-
-* [Audio editing](https://simple.wikipedia.org/wiki/Audio_editing_software)
-* Radio ad production and placement
-* Audio production
-* Podcast production
-* Limited music recording for release
-* Single-camera video recording of events
-* Radio airtime brokerage
-* Assistance in the creation of creative works for institutional use
-
-#### Print
-
-* Print media production using LaTeX2e
-* Limited editing and design service
-
-#### Religious Works
-
-* Preparation of worship materials for print and overhead display  
-* Audiovisual systems analysis  
-* Streaming planning assistance  
-* Streaming metrics versus in-person attendance review assistance
+During the seemingly permanent polycrisis we must be creative in meeting service requests.  Please contact us to discuss service availability for your project.  An illustrative list of possible services would generally include matters in the realms of audiovisual work, print production, and aid to religious groups.
 
 ### Our Works-In-Progress & Planned Efforts
 
-* Producing an audio podcast concerning rural perspectives on streaming television
+* Producing [an audio podcast concerning rural perspectives on streaming television](https://69admins.com/)
 * Pursuing development of an [over-the-top video service](https://en.wikipedia.org/w/index.php?title=Over-the-top_media_service&oldid=1110776742) to cover the local area
     * Adjusting our radio-based equipment for better reception of Over The Air data streams such as [NAVTEX](https://en.wikipedia.org/wiki/NAVTEX) and [WEFAX](https://en.wikipedia.org/wiki/Radiofax#Weatherfax) to incorporate into such as a service as well as make use of [Ninth District USCG weather broadcasts](https://www.weather.gov/marine/uscg_broadcasts)
     * Secure access to appropriate support networks and services
