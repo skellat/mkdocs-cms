@@ -13,6 +13,7 @@ During the seemingly permanent polycrisis we must be creative in meeting service
 ### Our Works-In-Progress & Planned Efforts
 
 * Continuing participation in the work of the Ashtabula County Broadband Task Force  
+* Reinforcing our operational infrastructure 
 * Pursuing development of an [over-the-top video service](https://en.wikipedia.org/w/index.php?title=Over-the-top_media_service&oldid=1110776742) to cover the local area
     * Adjusting our radio-based equipment for better reception of Over The Air data streams such as [NAVTEX](https://en.wikipedia.org/wiki/NAVTEX) and [WEFAX](https://en.wikipedia.org/wiki/Radiofax#Weatherfax) to incorporate into such as a service as well as make use of [Ninth District USCG weather broadcasts](https://www.weather.gov/marine/uscg_broadcasts)
     * Secure access to appropriate support networks and services to produce such a video service
