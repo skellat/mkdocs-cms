@@ -1,6 +1,6 @@
 ## Your Boutique Multi-Platform Media Arts Shop
 
-Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work and consultations.  We work in audiovisual editing, creative assistance, [LaTeX2e](https://simple.wikipedia.org/wiki/LaTeX), and more to provide unique solutions. Examples of audio works we have created can be found online at the [Internet Archive](https://archive.org/search.php?query=%22Erie%20Looking%20Productions%22&and[]=mediatype%3A%22audio%22).  We are generally looking to expand our offerings over time.
+Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work and consultations.  We work in audiovisual editing, creative assistance, [LaTeX2e](https://simple.wikipedia.org/wiki/LaTeX), and more to provide unique solutions. Examples of audio works we have created can be found online at the Internet Archive.  We are generally looking to expand our offerings over time.
 
 ### To Reach Us
 
@@ -14,9 +14,9 @@ During the seemingly permanent polycrisis we must be creative in meeting service
 
 * Reinforcing our operational infrastructure 
 * Creation of a streaming video bulletin board using appropriate technologies
-* Continuing participation in the work of the Ashtabula County Broadband Task Force  
-* Pursuing development of an [over-the-top video service](https://en.wikipedia.org/w/index.php?title=Over-the-top_media_service&oldid=1110776742) to cover the local area
+* Continuing participation in the work of the [Ashtabula County Broadband Task Force ](https://www.ashtabulacounty.us/767/Broadband-Taskforce) 
+* Reassessing development of an [alternative media news outlet](https://en.wikipedia.org/w/index.php?title=Alternative_media&oldid=1186201779) to cover the local area
     * Adjusting our radio-based equipment for better reception of Over The Air data streams such as [NAVTEX](https://en.wikipedia.org/wiki/NAVTEX) and [WEFAX](https://en.wikipedia.org/wiki/Radiofax#Weatherfax) to incorporate into such as a service as well as make use of [Ninth District USCG weather broadcasts](https://www.weather.gov/marine/uscg_broadcasts)
-    * Secure access to appropriate support networks and services to produce such a video service
+    * Secure access to appropriate support networks and services to produce such a service
 * Producing [an audio podcast concerning rural perspectives on streaming television](https://69admins.com/)
 * Considering the operational ramifications behind John Goerzen's article [Building an Asynchronous, Internet-Optional Instant Messaging System](https://www.complete.org/building-an-asynchronous-internet-optional-instant-messaging-system/) and work toward a test deployment
