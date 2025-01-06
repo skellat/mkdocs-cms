@@ -1,14 +1,14 @@
 site_name: Erie Looking Productions
-theme: mkdocs
+theme: readthedocs
 site_url: https://erielookingproductions.info/
-site_description: The primary public website of Erie Looking Productions
+site_description: The main public website of Erie Looking Productions
 site_author: Stephen Michael Kellat
 # repo_url: https://github.com/skellat/mkdocs-cms
 # repo_name: GitHub
 remote_branch: main
 docs_dir: page
 site_dir: docs
-copyright: Copyright © 2019-2023 Erie Looking Productions and Stephen Michael Kellat.  
+copyright: Copyright © 2019-2025 Erie Looking Productions and Stephen Michael Kellat.  
 plugins: []
 nav:
      - Home: index.md
