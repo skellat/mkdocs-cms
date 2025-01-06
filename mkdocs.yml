@@ -3,8 +3,8 @@ theme: readthedocs
 site_url: https://erielookingproductions.info/
 site_description: The main public website of Erie Looking Productions
 site_author: Stephen Michael Kellat
-# repo_url: https://github.com/skellat/mkdocs-cms
-# repo_name: GitHub
+repo_url: https://github.com/skellat/mkdocs-cms
+repo_name: GitHub
 remote_branch: main
 docs_dir: page
 site_dir: docs
