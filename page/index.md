@@ -1,6 +1,6 @@
 ## Ashtabula's Boutique Multi-Platform Media Arts Shop
 
-Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work and consultations.  We work in audiovisual editing, creative assistance, [LaTeX2e](https://simple.wikipedia.org/wiki/LaTeX), and more to provide unique solutions. Examples of audio works we have created can be found online at the Internet Archive.  We generally seek to expand our offerings over time.
+Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work and consultations.  We work in audiovisual editing, creative assistance, [LaTeX](https://simple.wikipedia.org/wiki/LaTeX), and more to provide unique solutions. Examples of audio works we have created can be found online at the Internet Archive.  We generally seek to expand our offerings over time.
 
 ### To Reach Us
 
